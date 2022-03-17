@@ -19,6 +19,6 @@ message:
     exception: Exception
     team: Team
   custom:
-    sec: sec
-    min: min
-    hour: hour
+    sec: сек
+    min: мин
+    hour: час
